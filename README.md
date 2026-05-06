@@ -1,39 +1,33 @@
-# 👨‍💻 Hi, I'm Yaroslav Dudar
+# Hi there, I'm Yaroslav! 👋
 
-I'm a Python developer focused on automation, backend systems, and cloud deployment.
+**Python Backend Developer | AI Integration Specialist | FastAPI Enthusiast**
 
-My main project: [AUTO-REPORT-GENERATOR](https://github.com/DudarDev/auto-report-generator)
-- Generates PDF reports from Google Sheets
-- Archives reports in ZIP
-- Sends them via email
-- Has a clean Streamlit UI
-- Fully deployed on Google Cloud Run
+I am a backend engineer with ~2 years of commercial experience, specializing in building scalable architectures, robust REST APIs, and integrating AI models into production. Coming from a background in B2B IT Sales and Lead Generation, I bring a strong **product mindset** to my code — I don't just write functions; I build solutions that solve real business problems.
 
----
+As an **"AI-Native"** developer, I actively leverage tools like Cursor and Claude to accelerate development, ensure high code quality, and rapidly prototype complex system architectures.
 
-## 🚀 My Tech Stack
+### 🚀 What I do best:
+* **High-Load Backend:** Designing and maintaining fast, asynchronous APIs using **FastAPI** and **Python 3**.
+* **Data Architecture:** Structuring complex databases, optimizing SQL queries, and handling migrations with **PostgreSQL** & SQLAlchemy.
+* **AI & Integrations:** Building LLM pipelines, RAG systems, and seamless third-party API integrations (OpenAI, Gemini, Payment gateways, automated reporting).
+* **Infrastructure:** Containerizing applications with **Docker** and deploying them to cloud environments (GCP Cloud Run, AWS).
 
-![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
-![Streamlit](https://img.shields.io/badge/Streamlit-UI-red?logo=streamlit)
-![Docker](https://img.shields.io/badge/Docker-container-blue?logo=docker)
-![GCP](https://img.shields.io/badge/GCP-Cloud_Run-lightgrey?logo=googlecloud)
+### 🛠️ Tech Stack:
+* **Backend:** Python 3, FastAPI, RESTful APIs, asyncio, Celery
+* **Databases:** PostgreSQL, Redis, MongoDB
+* **DevOps & Cloud:** Docker, Docker Compose, Linux/Bash, Google Cloud Platform (GCP), AWS (EC2/S3)
+* **Tools & Libraries:** SQLAlchemy, Alembic, Pydantic, Pandas, Pytest, Git
 
----
+### 📂 Featured Projects:
+*(Check out my pinned repositories below)*
+1.  **Algo-Trade-Core:** A high-performance backend architecture for an algorithmic trading platform handling real-time data and order execution.
+2.  **FastAPI Product Parser:** An asynchronous service built for rapid data extraction, structuring, and seamless delivery.
+3.  **AI SaaS Report Generator:** A robust backend system orchestrating Generative AI models to process complex JSON data and generate automated business reports.
 
-## 📈 Portfolio
-
-- 🔗 [Live Project](https://auto-report-867001722952.europe-west1.run.app)
-- 📘 [English README](https://github.com/DudarDev/auto-report-generator/blob/main/README-EN.md)
-- 🎥 Demo video coming soon
-
----
-
-## 📫 Let's connect
-
-- Email: [yaroslavupwork97@gmail.com](mailto:yaroslavupwork97@gmail.com)
-- GitHub: [@DudarDev](https://github.com/DudarDev)
-- Telegram: [@yaroslav_dev](https://t.me/yaroslav_dev) _(if public)_
+### 📫 Let's Connect:
+* **Telegram:** [@OnlyONRs](https://t.me/OnlyONRs)
+* **LinkedIn:** [Yaroslav Dudar](https://www.linkedin.com/in/yaroslavdudar97dev)
 
 ---
+⚡ *“Great engineering is about finding the perfect balance between performance, maintainability, and business value.”*
 
-_This profile is maintained as a part of my Python learning journey and to showcase production-ready cloud projects._
